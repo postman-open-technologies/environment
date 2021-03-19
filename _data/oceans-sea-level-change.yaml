@@ -1,0 +1,43 @@
+---
+- title: CO2 Concentration Increase (12 Months)
+  value: 1.89
+  date: 2021/01/15
+  unit: parts per million
+  graph: https://graphs.unepgrid.ch/graph_global_co2_concentration_2.php
+  graph_resp: https://graphs.unepgrid.ch/graph_global_co2_concentration_2_resp.php
+- title: CO2 Atmospheric Concentration
+  value: 417.07
+  date: 2020/05/15
+  unit: parts per million
+  graph: https://graphs.unepgrid.ch/graph_global_co2_concentration.php
+  graph_resp: https://graphs.unepgrid.ch/graph_global_co2_concentration_resp.php
+- title: Yearly Global Temperature Anomaly
+  value: 1.02
+  date: '2020'
+  unit: "°C"
+  graph: https://graphs.unepgrid.ch/graph_global_temperatures.php
+  graph_resp: https://graphs.unepgrid.ch/graph_global_temperatures_resp.php
+- title: Monthly Global Temperature Anomaly
+  value: 0.82
+  date: 2020/12
+  unit: "°C"
+  graph: https://graphs.unepgrid.ch/graph_global_temperature_monthly.php
+  graph_resp: https://graphs.unepgrid.ch/graph_global_temperature_monthly_resp.php
+- title: Arctic Sea Ice Extent (Daily)
+  value: -0.7
+  date: 2021/02/03
+  unit: million km2
+  graph: https://graphs.unepgrid.ch/graph_arctic_sea_ice.php
+  graph_resp: https://graphs.unepgrid.ch/graph_arctic_sea_ice_resp.php
+- title: Global Mean Sea Level Change (Three-monthly)
+  value: 74.28
+  date: 2020/10/13
+  unit: millimeters since 1992
+  graph: https://graphs.unepgrid.ch/graph_sea_level_rise_1880.php
+  graph_resp: https://graphs.unepgrid.ch/graph_sea_level_rise_1880_resp.php
+- title: Change in Glacier Mass (Yearly)
+  value: -0.982
+  date: '2020'
+  unit: m w.e.
+  graph: https://graphs.unepgrid.ch/graph_glaciers.php
+  graph_resp: https://graphs.unepgrid.ch/graph_glaciers_resp.php

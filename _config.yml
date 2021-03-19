@@ -1,0 +1,23 @@
+title: Open Technologies<br>Environment
+tagline: Helping define the next generation of open environmental data.
+description: This is the landing for the portion of the Postman Open Technologies program that focuses on open environmental data, putting APIs to work to make data available for use in applications. This area is all about showcasing open data providers, the data the providers, and helping them the valuable resources they possess more accessible.
+workspace: https://www.postman.com/postman/workspace/postman-open-technologies-data
+image: images/postman-concepts.png
+url: https://postman-open-technologies.github.io/environment
+email: kin.lane@postman.com
+
+paginate: 50
+paginate_path: "/blog/page:num"
+
+github_user: postman-open-technologies
+github_repo: environment
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]

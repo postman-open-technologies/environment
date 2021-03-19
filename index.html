@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="container-fluid hero v5_starfield-small-night-sky pb-4">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-8 hero_title" style="text-align: center; margin-top: -30px;">
+            <h1>{{ site.title }}</h1>
+         </div>
+         <div><img src="{{ site.image }}" alt="" width="300"></div>
+      </div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">Government</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.data %}
+        {% assign show_tag = "Environment" %}
+        {% include workspace-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>About {{ site.tiitle }}</h2>
+         <p class="collection__end_p">{{ site.description }}</p>
+         <div class="col-md-12 blurb_padding"><a href="{{ site.workspace }}" target="_blank"><img src="images/postman-workspaces.png" width="400"></a></div>
+         <p><a href="{{ site.workspace }}" target="_blank" style="color: #FFFFFF;">Visit the {{ site.title }} Workspace</a></p>
+      </div>
+   </div>
+</div>
+
+<div class="container">
+   <div class="row">
+      <div class="col-md-10 offset-md-1 welcome text-center" style="padding-top: 10px;">
+         <a href="https://postman-open-technologies.github.io/home/"><img src="{{ site.image }}" alt="" width="150" align="left" style="padding-top: 10px"></a>
+         <p><a href="https://postman-open-technologies.github.io/home/" style="color: #000;">&#8592; Return to the Main Postman Open Technologies Page</a></p>
+      </div>
+   </div>
+</div>

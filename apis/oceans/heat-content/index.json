@@ -1,0 +1,6 @@
+---
+layout: none
+title: Ocean Heat Content
+tag: Environment
+---
+{% assign publish_json = site.data.ocean-heat-content | json | replace: '=>', ':' %}{{ publish_json }}

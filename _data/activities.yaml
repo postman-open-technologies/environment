@@ -1,0 +1,43 @@
+workspaces:
+  '7':
+    workspaces_count: 3
+  '8':
+    workspaces_count: 4
+  '9':
+    workspaces_count: 5
+  '10':
+    workspaces_count: 9
+articles:
+  '7':
+    articles_count: 1
+  '8':
+    articles_count: 1
+  '9':
+    articles_count: 1
+  '10':
+    articles_count: 4
+updates:
+  '7':
+    updates_count: 1
+  '8':
+    updates_count: 1
+  '9':
+    updates_count: 1
+  '10':
+    updates_count: 4
+videos:
+  '7':
+    videos_count: 1
+  '8':
+    videos_count: 2
+  '9':
+    videos_count: 2
+  '10':
+    videos_count: 5
+white_papers:
+  '7':
+    white_paper_count: 0
+  '8':
+    white_paper_count: 0
+  '9':
+    white_paper_count: 0

@@ -1,0 +1,76 @@
+- name: Agency Registry
+  description: "Help out on the road map for the agency registyr. I'll launch a landing page and public workspace for the registry and add it as an official ongoing project.\r\n\r\nURL - https://github.com/integrateddatasvc/agency-registry"
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/1'
+  created_at: '2021-03-05T22:53:00Z'
+  updated_at: '2021-03-11T20:37:04Z'
+  tags:
+    - project
+    - tasks
+- name: Add US Federal Government
+  description: Add a workspace and landing page for US Federal Government
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/2'
+  created_at: '2021-03-11T20:37:34Z'
+  updated_at: '2021-03-11T20:39:05Z'
+  tags:
+    - government
+    - landing-page
+    - tasks
+    - workspace
+- name: Add US State Government
+  description: Add a workspace and landng page for US State Government
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/3'
+  created_at: '2021-03-11T20:38:16Z'
+  updated_at: '2021-03-11T20:38:16Z'
+  tags:
+    - government
+    - landing-page
+    - tasks
+    - workspace
+- name: Add US City Government
+  description: Add a workspace and landng page for US City Government
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/4'
+  created_at: '2021-03-11T20:38:49Z'
+  updated_at: '2021-03-11T20:38:49Z'
+  tags:
+    - government
+    - landing-page
+    - tasks
+    - workspace
+- name: Create DCAT Workspace
+  description: >-
+    Establish a new DCAT workspace using JSON Schema files at
+    https://resources.data.gov/resources/podm-field-mapping/#json-schema-files,
+    and see if this Swagger file helps
+    https://api.data.amsterdam.nl/api/swagger/?url=/dcatd/openapi. Publish as
+    workspace and move forward as a standard.
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/5'
+  created_at: '2021-03-15T02:25:34Z'
+  updated_at: '2021-03-15T02:25:34Z'
+  tags:
+    - government
+    - specifications
+    - tasks
+- name: Add WTO Data
+  description: 'Add World Trade Organization to a workspace - https://apiportal.wto.org/'
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/6'
+  created_at: '2021-03-15T02:53:50Z'
+  updated_at: '2021-03-15T02:54:06Z'
+  tags:
+    - tasks
+- name: Add Professional Associations to a Workspace
+  description: >-
+    Add the database of professional associations so that we can look for them
+    mentioning OpenAPI or JSON Schema -
+    https://www.careeronestop.org/Developers/Data/professional-associations.aspx
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/7'
+  created_at: '2021-03-15T03:00:58Z'
+  updated_at: '2021-03-15T03:00:58Z'
+  tags:
+    - tasks
+- name: Add OGC APIs to Workspace
+  description: 'Use their OpenAPIs to create a workspace - https://ogcapi.ogc.org/'
+  url: 'https://api.github.com/repos/postman-open-technologies/data/issues/8'
+  created_at: '2021-03-15T03:18:57Z'
+  updated_at: '2021-03-15T03:18:57Z'
+  tags:
+    - tasks

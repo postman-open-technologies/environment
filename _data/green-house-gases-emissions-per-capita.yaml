@@ -1,0 +1,571 @@
+---
+- code: AF
+  emissions_percapita:
+    emissions_percapita: 2.67
+- code: AL
+  emissions_percapita:
+    emissions_percapita: 3.43
+- code: DZ
+  emissions_percapita:
+    emissions_percapita: 5.19
+- code: AD
+  emissions_percapita:
+    emissions_percapita: 7.63
+- code: AO
+  emissions_percapita:
+    emissions_percapita: 4.04
+- code: AG
+  emissions_percapita:
+    emissions_percapita: 12.59
+- code: AR
+  emissions_percapita:
+    emissions_percapita: 8.89
+- code: AM
+  emissions_percapita:
+    emissions_percapita: 3.18
+- code: AU
+  emissions_percapita:
+    emissions_percapita: 24.79
+- code: AT
+  emissions_percapita:
+    emissions_percapita: 7.68
+- code: AZ
+  emissions_percapita:
+    emissions_percapita: 7.88
+- code: BS
+  emissions_percapita:
+    emissions_percapita: 6.87
+- code: BH
+  emissions_percapita:
+    emissions_percapita: 31.19
+- code: BD
+  emissions_percapita:
+    emissions_percapita: 1.37
+- code: BB
+  emissions_percapita:
+    emissions_percapita: 13.21
+- code: BY
+  emissions_percapita:
+    emissions_percapita: 7.03
+- code: BE
+  emissions_percapita:
+    emissions_percapita: 9.53
+- code: BZ
+  emissions_percapita:
+    emissions_percapita: 17.81
+- code: BJ
+  emissions_percapita:
+    emissions_percapita: 2.45
+- code: BT
+  emissions_percapita:
+    emissions_percapita: 1.53
+- code: BO
+  emissions_percapita:
+    emissions_percapita: 11.12
+- code: BA
+  emissions_percapita:
+    emissions_percapita: 7.66
+- code: BW
+  emissions_percapita:
+    emissions_percapita: 25.49
+- code: BR
+  emissions_percapita:
+    emissions_percapita: 6.78
+- code: BN
+  emissions_percapita:
+    emissions_percapita: 39.51
+- code: BG
+  emissions_percapita:
+    emissions_percapita: 2.78
+- code: BF
+  emissions_percapita:
+    emissions_percapita: 2.78
+- code: BI
+  emissions_percapita:
+    emissions_percapita: 0.8
+- code: KH
+  emissions_percapita:
+    emissions_percapita: 4.26
+- code: CM
+  emissions_percapita:
+    emissions_percapita: 4.89
+- code: CA
+  emissions_percapita:
+    emissions_percapita: 20.6
+- code: CV
+  emissions_percapita:
+    emissions_percapita: 1.41
+- code: CF
+  emissions_percapita:
+    emissions_percapita: 18.66
+- code: TD
+  emissions_percapita:
+    emissions_percapita: 6.79
+- code: CL
+  emissions_percapita:
+    emissions_percapita: 2.76
+- code: CN
+  emissions_percapita:
+    emissions_percapita: 8.4
+- code: CO
+  emissions_percapita:
+    emissions_percapita: 5.4
+- code: KM
+  emissions_percapita:
+    emissions_percapita: 0.79
+- code: CR
+  emissions_percapita:
+    emissions_percapita: 1.71
+- code: HR
+  emissions_percapita:
+    emissions_percapita: 4.45
+- code: CU
+  emissions_percapita:
+    emissions_percapita: 3.42
+- code: CY
+  emissions_percapita:
+    emissions_percapita: 7.02
+- code: CZ
+  emissions_percapita:
+    emissions_percapita: 11.01
+- code: CI
+  emissions_percapita:
+    emissions_percapita: 1.98
+- code: CD
+  emissions_percapita:
+    emissions_percapita: 8.11
+- code: DK
+  emissions_percapita:
+    emissions_percapita: 8.07
+- code: DJ
+  emissions_percapita:
+    emissions_percapita: 1.55
+- code: DM
+  emissions_percapita:
+    emissions_percapita: 3.2
+- code: DO
+  emissions_percapita:
+    emissions_percapita: 3.53
+- code: EC
+  emissions_percapita:
+    emissions_percapita: 5.38
+- code: EG
+  emissions_percapita:
+    emissions_percapita: 3.35
+- code: SV
+  emissions_percapita:
+    emissions_percapita: 2.09
+- code: GQ
+  emissions_percapita:
+    emissions_percapita: 17.65
+- code: EE
+  emissions_percapita:
+    emissions_percapita: 15.55
+- code: SZ
+  emissions_percapita:
+    emissions_percapita: 2.64
+- code: ET
+  emissions_percapita:
+    emissions_percapita: 1.87
+- code: FJ
+  emissions_percapita:
+    emissions_percapita: 0.32
+- code: FI
+  emissions_percapita:
+    emissions_percapita: 11.14
+- code: FR
+  emissions_percapita:
+    emissions_percapita: 5.4
+- code: GA
+  emissions_percapita:
+    emissions_percapita: 6.59
+- code: GM
+  emissions_percapita:
+    emissions_percapita: 1.45
+- code: GE
+  emissions_percapita:
+    emissions_percapita: 4.54
+- code: DE
+  emissions_percapita:
+    emissions_percapita: 9.37
+- code: GH
+  emissions_percapita:
+    emissions_percapita: 0.66
+- code: GR
+  emissions_percapita:
+    emissions_percapita: 8.03
+- code: GD
+  emissions_percapita:
+    emissions_percapita: 21.14
+- code: GT
+  emissions_percapita:
+    emissions_percapita: 2.37
+- code: GN
+  emissions_percapita:
+    emissions_percapita: 3.32
+- code: GW
+  emissions_percapita:
+    emissions_percapita: 2.37
+- code: GY
+  emissions_percapita:
+    emissions_percapita: 24.55
+- code: HT
+  emissions_percapita:
+    emissions_percapita: 0.95
+- code: HN
+  emissions_percapita:
+    emissions_percapita: 2.93
+- code: HU
+  emissions_percapita:
+    emissions_percapita: 6.42
+- code: IS
+  emissions_percapita:
+    emissions_percapita: 9.51
+- code: IN
+  emissions_percapita:
+    emissions_percapita: 2.47
+- code: ID
+  emissions_percapita:
+    emissions_percapita: 6.37
+- code: IR
+  emissions_percapita:
+    emissions_percapita: 10.13
+- code: IQ
+  emissions_percapita:
+    emissions_percapita: 5.63
+- code: IE
+  emissions_percapita:
+    emissions_percapita: 12.8
+- code: IL
+  emissions_percapita:
+    emissions_percapita: 9.9
+- code: IT
+  emissions_percapita:
+    emissions_percapita: 6.4
+- code: JM
+  emissions_percapita:
+    emissions_percapita: 3.48
+- code: JP
+  emissions_percapita:
+    emissions_percapita: 9.13
+- code: JO
+  emissions_percapita:
+    emissions_percapita: 3.6
+- code: KZ
+  emissions_percapita:
+    emissions_percapita: 14.84
+- code: KE
+  emissions_percapita:
+    emissions_percapita: 1.39
+- code: KI
+  emissions_percapita:
+    emissions_percapita: 0.95
+- code: KW
+  emissions_percapita:
+    emissions_percapita: 27.3
+- code: KG
+  emissions_percapita:
+    emissions_percapita: 2.35
+- code: LA
+  emissions_percapita:
+    emissions_percapita: 5.47
+- code: LV
+  emissions_percapita:
+    emissions_percapita: 4.61
+- code: LB
+  emissions_percapita:
+    emissions_percapita: 5
+- code: LS
+  emissions_percapita:
+    emissions_percapita: 2.77
+- code: LR
+  emissions_percapita:
+    emissions_percapita: 4.7
+- code: LY
+  emissions_percapita:
+    emissions_percapita: 15.43
+- code: LI
+  emissions_percapita:
+    emissions_percapita: 4.73
+- code: LT
+  emissions_percapita:
+    emissions_percapita: 6.5
+- code: LU
+  emissions_percapita:
+    emissions_percapita: 16.36
+- code: MK
+  emissions_percapita:
+    emissions_percapita: 5.04
+- code: MG
+  emissions_percapita:
+    emissions_percapita: 1.57
+- code: MW
+  emissions_percapita:
+    emissions_percapita: 1.48
+- code: MY
+  emissions_percapita:
+    emissions_percapita: 12.31
+- code: MV
+  emissions_percapita:
+    emissions_percapita: 4.61
+- code: ML
+  emissions_percapita:
+    emissions_percapita: 2.29
+- code: MT
+  emissions_percapita:
+    emissions_percapita: 4.19
+- code: MH
+  emissions_percapita:
+    emissions_percapita: 4.03
+- code: MR
+  emissions_percapita:
+    emissions_percapita: 2.95
+- code: MU
+  emissions_percapita:
+    emissions_percapita: 5.31
+- code: MX
+  emissions_percapita:
+    emissions_percapita: 5.51
+- code: FM
+  emissions_percapita:
+    emissions_percapita: 2.1
+- code: MD
+  emissions_percapita:
+    emissions_percapita: 4.91
+- code: MN
+  emissions_percapita:
+    emissions_percapita: 17.58
+- code: ME
+  emissions_percapita:
+    emissions_percapita: 6.16
+- code: MA
+  emissions_percapita:
+    emissions_percapita: 2.56
+- code: MZ
+  emissions_percapita:
+    emissions_percapita: 3.73
+- code: MM
+  emissions_percapita:
+    emissions_percapita: 4.31
+- code: NA
+  emissions_percapita:
+    emissions_percapita: 9.19
+- code: NR
+  emissions_percapita:
+    emissions_percapita: 6.03
+- code: NP
+  emissions_percapita:
+    emissions_percapita: 1.94
+- code: NL
+  emissions_percapita:
+    emissions_percapita: 10.45
+- code: NZ
+  emissions_percapita:
+    emissions_percapita: 14.61
+- code: NI
+  emissions_percapita:
+    emissions_percapita: 5.98
+- code: NE
+  emissions_percapita:
+    emissions_percapita: 2.06
+- code: NG
+  emissions_percapita:
+    emissions_percapita: 1.83
+- code: KP
+  emissions_percapita:
+    emissions_percapita: 1.77
+- code: 'NO'
+  emissions_percapita:
+    emissions_percapita: 5.35
+- code: OM
+  emissions_percapita:
+    emissions_percapita: 17.04
+- code: PK
+  emissions_percapita:
+    emissions_percapita: 2.07
+- code: PW
+  emissions_percapita:
+    emissions_percapita: 17.93
+- code: PA
+  emissions_percapita:
+    emissions_percapita: 5.37
+- code: PG
+  emissions_percapita:
+    emissions_percapita: 7.45
+- code: PY
+  emissions_percapita:
+    emissions_percapita: 13.7
+- code: PE
+  emissions_percapita:
+    emissions_percapita: 5.82
+- code: PH
+  emissions_percapita:
+    emissions_percapita: 2.2
+- code: PL
+  emissions_percapita:
+    emissions_percapita: 9.39
+- code: PT
+  emissions_percapita:
+    emissions_percapita: 6.53
+- code: QA
+  emissions_percapita:
+    emissions_percapita: 35.89
+- code: CG
+  emissions_percapita:
+    emissions_percapita: 3.87
+- code: RO
+  emissions_percapita:
+    emissions_percapita: 4.42
+- code: RU
+  emissions_percapita:
+    emissions_percapita: 13.79
+- code: RW
+  emissions_percapita:
+    emissions_percapita: 0.64
+- code: KN
+  emissions_percapita:
+    emissions_percapita: 7.03
+- code: LC
+  emissions_percapita:
+    emissions_percapita: 3.25
+- code: VC
+  emissions_percapita:
+    emissions_percapita: 3.32
+- code: WS
+  emissions_percapita:
+    emissions_percapita: 4.07
+- code: ST
+  emissions_percapita:
+    emissions_percapita: 1.94
+- code: SA
+  emissions_percapita:
+    emissions_percapita: 18.94
+- code: SN
+  emissions_percapita:
+    emissions_percapita: 2.17
+- code: RS
+  emissions_percapita:
+    emissions_percapita: 8.95
+- code: SC
+  emissions_percapita:
+    emissions_percapita: 8.02
+- code: SL
+  emissions_percapita:
+    emissions_percapita: 1.38
+- code: SG
+  emissions_percapita:
+    emissions_percapita: 11.82
+- code: SK
+  emissions_percapita:
+    emissions_percapita: 7.13
+- code: SI
+  emissions_percapita:
+    emissions_percapita: 8.45
+- code: SB
+  emissions_percapita:
+    emissions_percapita: 71
+- code: SO
+  emissions_percapita:
+    emissions_percapita: 2.95
+- code: ZA
+  emissions_percapita:
+    emissions_percapita: 9.01
+- code: KR
+  emissions_percapita:
+    emissions_percapita: 13.04
+- code: SS
+  emissions_percapita:
+    emissions_percapita: 6.24
+- code: ES
+  emissions_percapita:
+    emissions_percapita: 6.69
+- code: LK
+  emissions_percapita:
+    emissions_percapita: 1.71
+- code: SD
+  emissions_percapita:
+    emissions_percapita: 3.13
+- code: SR
+  emissions_percapita:
+    emissions_percapita: 22.82
+- code: SE
+  emissions_percapita:
+    emissions_percapita: 2.95
+- code: CH
+  emissions_percapita:
+    emissions_percapita: 5.14
+- code: SY
+  emissions_percapita:
+    emissions_percapita: 2.74
+- code: TJ
+  emissions_percapita:
+    emissions_percapita: 1.66
+- code: TZ
+  emissions_percapita:
+    emissions_percapita: 3.12
+- code: TH
+  emissions_percapita:
+    emissions_percapita: 6.21
+- code: TL
+  emissions_percapita:
+    emissions_percapita: 5.25
+- code: TG
+  emissions_percapita:
+    emissions_percapita: 1.17
+- code: TO
+  emissions_percapita:
+    emissions_percapita: 3.36
+- code: TT
+  emissions_percapita:
+    emissions_percapita: 16.57
+- code: TN
+  emissions_percapita:
+    emissions_percapita: 3.23
+- code: TR
+  emissions_percapita:
+    emissions_percapita: 5.76
+- code: TM
+  emissions_percapita:
+    emissions_percapita: 21.38
+- code: TV
+  emissions_percapita:
+    emissions_percapita: 2.29
+- code: UG
+  emissions_percapita:
+    emissions_percapita: 1.66
+- code: UA
+  emissions_percapita:
+    emissions_percapita: 5.88
+- code: AE
+  emissions_percapita:
+    emissions_percapita: 27.33
+- code: GB
+  emissions_percapita:
+    emissions_percapita: 6.64
+- code: US
+  emissions_percapita:
+    emissions_percapita: 17.74
+- code: UY
+  emissions_percapita:
+    emissions_percapita: 9.97
+- code: UZ
+  emissions_percapita:
+    emissions_percapita: 7.04
+- code: VU
+  emissions_percapita:
+    emissions_percapita: 2.96
+- code: VE
+  emissions_percapita:
+    emissions_percapita: 9.6
+- code: VN
+  emissions_percapita:
+    emissions_percapita: 3.81
+- code: YE
+  emissions_percapita:
+    emissions_percapita: 0.76
+- code: ZM
+  emissions_percapita:
+    emissions_percapita: 5.37
+- code: ZW
+  emissions_percapita:
+    emissions_percapita: 8.23

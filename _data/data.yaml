@@ -1,0 +1,26 @@
+---
+name: Postman Open Technologies - Open Data
+description: This is the Postman program for investing in open data.
+tags:
+- Data
+- Open Data
+created: '2021-02-24'
+modified: '2021-02-24'
+url: apis.json
+specificationVersion: '0.14'
+apis:
+
+- name: Data.gov
+  description: The data catalog for the US federal government, providing a single location where you can find datasets across agencies under many different topics. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. Data.gov is powered by two open source applications, CKAN and WordPress, and it is developed publicly on GitHub.
+  image: images/data-gov.png
+  tags:
+  - Environment
+  - 
+  properties:
+  - type: x-postman-workspace
+    url: https://www.postman.com/api-evangelist/workspace/data-gov/overview   
+
+maintainers:
+  - FN: Kin Lane
+    email: kin.lane@postman.com
+    x-Tweets: kinlane
