@@ -1,7 +1,7 @@
 title: Open Technologies<br>Environmental Data
 tagline: Helping define the next generation of open environmental data.
 description: This is the landing for the portion of the Postman Open Technologies program that focuses on open environmental data, putting APIs to work to make data available for use in applications. This area is all about showcasing open data providers, the data the providers, and helping them the valuable resources they possess more accessible.
-workspace: https://www.postman.com/postman/workspace/postman-open-technologies-data
+workspace: https://www.postman.com/api-evangelist/workspace/environment/overview
 image: images/postman-concepts.png
 url: https://postman-open-technologies.github.io/environment
 email: kin.lane@postman.com
