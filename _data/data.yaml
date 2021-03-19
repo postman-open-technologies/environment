@@ -20,6 +20,53 @@ apis:
   - type: x-postman-documentation
     url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-1567eedc-ffdd-444b-8874-76b0d18f2951  
 
+- name: Global Surface Temperatures
+  description: The planets average surface temperature has risen by about 0.9 degrees celsius since late 19th century with the six warmest years recorded since 2014. This is a dataset pulled from behind the United Nations data visualizations.
+  image: images/global-surface-temperatures.png
+  tags:
+  - Environment
+  - Temperatures
+  properties:
+  - type: x-postman-documentation
+    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-d28b28ad-1611-44e8-ace9-89ea31be5a52   
+
+- name: Green House Gases
+  description: This provides a set of resources for pulling data about green house gases, allowing you to pull by country, per capita, CO2 trends, and global CO2 and CH4 concentration.
+  image: images/green-house-gases.png
+  tags:
+  - Environment
+  - Green House Gases
+  - CO2
+  - CH4
+  properties:
+  - type: x-postman-documentation
+    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-e4b9e6dc-8f23-466d-86b8-cf78b2637bf5    
+
+- name: Green House Gases
+  description: This provides a set of resources for pulling data about green house gases, allowing you to pull by country, per capita, CO2 trends, and global CO2 and CH4 concentration.
+  image: images/green-house-gases.png
+  tags:
+  - Environment
+  - Green House Gases
+  - CO2
+  - CH4
+  properties:
+  - type: x-postman-documentation
+    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-e4b9e6dc-8f23-466d-86b8-cf78b2637bf5  
+
+- name: Oceans
+  description: With oceans absorbing much heat, glacier retreating, and ice sheets shrinking, the sea level is rising. Global sea level rose about 8 inches last decade with the rate doubling in the last two decades (NASA). This collection provides a set of resources about the impact of climate change on our oceans, pulled from behind the different United Nations visualizations.
+  image: images/oceans.png
+  tags:
+  - Environment
+  - Green House Gases
+  - CO2
+  - CH4
+  properties:
+  - type: x-postman-documentation
+    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-e4b9e6dc-8f23-466d-86b8-cf78b2637bf5         
+
+
 maintainers:
   - FN: Kin Lane
     email: kin.lane@postman.com
