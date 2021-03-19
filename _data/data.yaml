@@ -10,15 +10,15 @@ url: apis.json
 specificationVersion: '0.14'
 apis:
 
-- name: Data.gov
-  description: The data catalog for the US federal government, providing a single location where you can find datasets across agencies under many different topics. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. Data.gov is powered by two open source applications, CKAN and WordPress, and it is developed publicly on GitHub.
-  image: images/data-gov.png
+- name: Climate Risk Index
+  description: The annually published Global Climate Risk Index analyses to what extent countries have been affected by the impacts of weather-related loss events (storms, floods, heat waves etc.).
+  image: images/climate-risk-index.png
   tags:
   - Environment
-  - 
+  - Risk Index
   properties:
-  - type: x-postman-workspace
-    url: https://www.postman.com/api-evangelist/workspace/data-gov/overview   
+  - type: x-postman-documentation
+    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-1567eedc-ffdd-444b-8874-76b0d18f2951  
 
 maintainers:
   - FN: Kin Lane
