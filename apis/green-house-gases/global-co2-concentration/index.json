@@ -3,4 +3,4 @@ layout: none
 title: Green House Gases Global CO2 Concentration
 tag: Environment
 ---
-{% assign publish_json = site.data.cgreen-house-gases-global-co2-concentration | json | replace: '=>', ':' %}{{ publish_json }}
+{% assign publish_json = site.data.green-house-gases-global-co2-concentration | json | replace: '=>', ':' %}{{ publish_json }}
