@@ -1,6 +1,6 @@
 ---
 layout: none
-title: Climate Risk Index
+title: Global Surface Temperatures
 tag: Environment
 ---
-{% assign publish_json = site.data.climate-risk-index | json | replace: '=>', ':' %}{{ publish_json }}
+{% assign publish_json = site.data.global-surface-temperatures | json | replace: '=>', ':' %}{{ publish_json }}
