@@ -4,8 +4,9 @@ description: This is the Postman program for investing in open data.
 tags:
 - Data
 - Open Data
-created: '2021-02-24'
-modified: '2021-02-24'
+- Environment
+created: '2021-03-18'
+modified: '2021-03-18'
 url: apis.json
 specificationVersion: '0.14'
 apis:
@@ -29,18 +30,6 @@ apis:
   properties:
   - type: x-postman-documentation
     url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-d28b28ad-1611-44e8-ace9-89ea31be5a52   
-
-- name: Green House Gases
-  description: This provides a set of resources for pulling data about green house gases, allowing you to pull by country, per capita, CO2 trends, and global CO2 and CH4 concentration.
-  image: images/green-house-gases.png
-  tags:
-  - Environment
-  - Green House Gases
-  - CO2
-  - CH4
-  properties:
-  - type: x-postman-documentation
-    url: https://www.postman.com/api-evangelist/workspace/environment/documentation/35240-e4b9e6dc-8f23-466d-86b8-cf78b2637bf5    
 
 - name: Green House Gases
   description: This provides a set of resources for pulling data about green house gases, allowing you to pull by country, per capita, CO2 trends, and global CO2 and CH4 concentration.
