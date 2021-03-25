@@ -1,709 +1,713 @@
 ---
-- code: MZ
+- code: MOZ
   cri: 2.67
   fatalities_per_100k: 3
   gdp_losses: 2
-- code: BS
+- code: BHS
   cri: 6.5
   fatalities_per_100k: 1
   gdp_losses: 1
-- code: JP
+- code: JPN
   cri: 14.5
   fatalities_per_100k: 20
   gdp_losses: 18
-- code: MW
+- code: MWI
   cri: 15.17
   fatalities_per_100k: 13
   gdp_losses: 5
-- code: AF
+- code: AFG
   cri: 16
   fatalities_per_100k: 11
   gdp_losses: 15
-- code: IN
+- code: IND
   cri: 16.67
   fatalities_per_100k: 36
   gdp_losses: 13
-- code: SS
+- code: SSD
   cri: 17.33
   fatalities_per_100k: 4
   gdp_losses: 10
-- code: NE
+- code: NER
   cri: 18.17
   fatalities_per_100k: 12
   gdp_losses: 11
-- code: BO
+- code: BOL
   cri: 19.67
   fatalities_per_100k: 15
   gdp_losses: 9
-- code: SD
+- code: SDN
   cri: 19.83
   fatalities_per_100k: 25
   gdp_losses: 12
-- code: NP
+- code: NPL
   cri: 20
   fatalities_per_100k: 7
   gdp_losses: 27
-- code: BD
+- code: BGD
   cri: 23.5
   fatalities_per_100k: 29
   gdp_losses: 28
-- code: ID
+- code: IDN
   cri: 24.83
   fatalities_per_100k: 31
   gdp_losses: 39
-- code: PK
+- code: PAK
   cri: 25
   fatalities_per_100k: 39
   gdp_losses: 25
-- code: KM
+- code: COM
   cri: 25.33
   fatalities_per_100k: 6
   gdp_losses: 4
-- code: PH
+- code: PHL
   cri: 26.67
   fatalities_per_100k: 40
   gdp_losses: 26
-- code: Iran
+- code: IRN
   cri: 27
   fatalities_per_100k: 45
   gdp_losses: 21
-- code: AU
+- code: AUS
   cri: 28
   fatalities_per_100k: 37
   gdp_losses: 24
-- code: PY
+- code: PRY
   cri: 30
   fatalities_per_100k: 22
   gdp_losses: 23
-- code: MM
+- code: MMR
   cri: 31.33
   fatalities_per_100k: 38
   gdp_losses: 29
-- code: MN
+- code: MNG
   cri: 31.67
   fatalities_per_100k: 9
   gdp_losses: 30
-- code: AO
+- code: AGO
   cri: 32.33
   fatalities_per_100k: 50
   gdp_losses: 14
-- code: ZA
+- code: ZAF
   cri: 32.5
   fatalities_per_100k: 26
   gdp_losses: 48
-- code: CL
+- code: CHL
   cri: 33
   fatalities_per_100k: 59
   gdp_losses: 8
-- code: KE
+- code: KEN
   cri: 33
   fatalities_per_100k: 16
   gdp_losses: 51
-- code: BR
+- code: BRA
   cri: 33.67
   fatalities_per_100k: 32
   gdp_losses: 58
-- code: CO
+- code: COL
   cri: 36.33
   fatalities_per_100k: 18
   gdp_losses: 64
-- code: MG
+- code: MDG
   cri: 40.33
   fatalities_per_100k: 14
   gdp_losses: 56
-- code: LK
+- code: LKA
   cri: 41.83
   fatalities_per_100k: 24
   gdp_losses: 61
-- code: UG
+- code: UGA
   cri: 42.17
   fatalities_per_100k: 19
   gdp_losses: 63
-- code: CN
+- code: CHN
   cri: 42.83
   fatalities_per_100k: 83
   gdp_losses: 42
-- code: ES
+- code: ESP
   cri: 42.83
   fatalities_per_100k: 69
   gdp_losses: 31
-- code: TH
+- code: THA
   cri: 43.17
   fatalities_per_100k: 64
   gdp_losses: 38
-- code: IT
+- code: ITA
   cri: 43.5
   fatalities_per_100k: 70
   gdp_losses: 34
-- code: GR
+- code: GRC
   cri: 45
   fatalities_per_100k: 34
   gdp_losses: 54
-- code: PT
+- code: PRT
   cri: 48.33
   fatalities_per_100k: 61
   gdp_losses: 36
-- code: VN
+- code: VNM
   cri: 50.17
   fatalities_per_100k: 57
   gdp_losses: 65
-- code: RU
+- code: RUS
   cri: 50.67
   fatalities_per_100k: 80
   gdp_losses: 49
-- code: FR
+- code: FRA
   cri: 52.5
   fatalities_per_100k: 68
   gdp_losses: 60
-- code: GM
+- code: GMB
   cri: 53.17
   fatalities_per_100k: 33
   gdp_losses: 35
-- code: GH
+- code: GHA
   cri: 53.33
   fatalities_per_100k: 30
   gdp_losses: 80
-- code: RW
+- code: RWA
   cri: 53.33
   fatalities_per_100k: 21
   gdp_losses: 67
-- code: LB
+- code: LBN
   cri: 54.67
   fatalities_per_100k: 55
   gdp_losses: 43
-- code: LA
+- code: LAO
   cri: 55.17
   fatalities_per_100k: 28
   gdp_losses: 66
-- code: PE
+- code: PER
   cri: 56.33
   fatalities_per_100k: 43
   gdp_losses: 79
-- code: AT
+- code: AUT
   cri: 56.83
   fatalities_per_100k: 79
   gdp_losses: 37
-- code: BA
+- code: BIH
   cri: 57.83
   fatalities_per_100k: 82
   gdp_losses: 20
-- code: NI
+- code: NIC
   cri: 58
   fatalities_per_100k: 52
   gdp_losses: 45
-- code: CG
+- code: COD
   cri: 58.67
   fatalities_per_100k: 41
   gdp_losses: 83
-- code: PG
+- code: PNG
   cri: 58.67
   fatalities_per_100k: 17
   gdp_losses: 82
-- code: YE
+- code: YEM
   cri: 59.33
   fatalities_per_100k: 46
   gdp_losses: 69
-- code: MX
+- code: MEX
   cri: 59.5
   fatalities_per_100k: 73
   gdp_losses: 77
-- code: AR
+- code: ARG
   cri: 60
   fatalities_per_100k: 86
   gdp_losses: 50
-- code: DE
+- code: DEU
   cri: 61.33
   fatalities_per_100k: 102
   gdp_losses: 44
-- code: BI
+- code: BDI
   cri: 61.83
   fatalities_per_100k: 10
   gdp_losses: 102
-- code: MR
+- code: MRT
   cri: 63
   fatalities_per_100k: 44
   gdp_losses: 59
-- code: ZM
+- code: ZMB
   cri: 63.33
   fatalities_per_100k: 90
   gdp_losses: 32
-- code: KP
+- code: KOR
   cri: 64
   fatalities_per_100k: 81
   gdp_losses: 73
-- code: LS
+- code: LSO
   cri: 64.67
   fatalities_per_100k: 106
   gdp_losses: 6
-- code: CA
+- code: CAN
   cri: 65.67
   fatalities_per_100k: 104
   gdp_losses: 40
-- code: GT
+- code: GTM
   cri: 65.67
   fatalities_per_100k: 66
   gdp_losses: 68
-- code: BE
+- code: BEL
   cri: 66
   fatalities_per_100k: 85
   gdp_losses: 53
-- code: TR
+- code: TUR
   cri: 66
   fatalities_per_100k: 71
   gdp_losses: 90
-- code: NZ
+- code: NZL
   cri: 66.33
   fatalities_per_100k: 76
   gdp_losses: 52
-- code: TZ
+- code: TZA
   cri: 66.5
   fatalities_per_100k: 47
   gdp_losses: 95
-- code: CM
+- code: CMR
   cri: 67.33
   fatalities_per_100k: 27
   gdp_losses: 107
-- code: MT
+- code: MLT
   cri: 67.33
   fatalities_per_100k: 106
   gdp_losses: 16
-- code: CF
+- code: CAF
   cri: 67.5
   fatalities_per_100k: 92
   gdp_losses: 17
-- code: SN
+- code: SEN
   cri: 67.5
   fatalities_per_100k: 106
   gdp_losses: 22
-- code: ET
+- code: ETH
   cri: 69.33
   fatalities_per_100k: 74
   gdp_losses: 81
-- code: NG
+- code: NGA
   cri: 70
   fatalities_per_100k: 84
   gdp_losses: 89
-- code: LU
+- code: LUX
   cri: 72.83
   fatalities_per_100k: 106
   gdp_losses: 33
-- code: DJ
+- code: DJI
   cri: 73
   fatalities_per_100k: 5
   gdp_losses: 120
-- code: FJ
+- code: FJI
   cri: 73
   fatalities_per_100k: 23
   gdp_losses: 92
-- code: SA
+- code: SAU
   cri: 73
   fatalities_per_100k: 65
   gdp_losses: 105
-- code: VU
+- code: VUT
   cri: 73
   fatalities_per_100k: 106
   gdp_losses: 7
-- code: HN
+- code: HND
   cri: 73.33
   fatalities_per_100k: 93
   gdp_losses: 46
-- code: LY
+- code: LBY
   cri: 73.67
   fatalities_per_100k: 48
   gdp_losses: 93
-- code: HR
+- code: HRV
   cri: 75.17
   fatalities_per_100k: 106
   gdp_losses: 41
-- code: DK
+- code: DNK
   cri: 75.5
   fatalities_per_100k: 49
   gdp_losses: 104
-- code: EE
+- code: EST
   cri: 75.67
   fatalities_per_100k: 60
   gdp_losses: 72
-- code: KH
+- code: KHM
   cri: 75.83
   fatalities_per_100k: 63
   gdp_losses: 86
-- code: UA
+- code: UKR
   cri: 76.17
   fatalities_per_100k: 100
   gdp_losses: 70
-- code: SL
+- code: SLE
   cri: 76.5
   fatalities_per_100k: 54
   gdp_losses: 84
-- code: SK
+- code: SVK
   cri: 77.17
   fatalities_per_100k: 53
   gdp_losses: 97
-- code: DM
+- code: DMA
   cri: 77.67
   fatalities_per_100k: 106
   gdp_losses: 19
-- code: ME
+- code: MNE
   cri: 78
   fatalities_per_100k: 8
   gdp_losses: 123
-- code: ML
+- code: MLI
   cri: 79.67
   fatalities_per_100k: 58
   gdp_losses: 101
-- code: MA
+- code: MAR
   cri: 79.67
   fatalities_per_100k: 42
   gdp_losses: 121
-- code: UY
+- code: URY
   cri: 79.67
   fatalities_per_100k: 56
   gdp_losses: 91
-- code: PL
+- code: POL
   cri: 80
   fatalities_per_100k: 97
   gdp_losses: 85
-- code: IQ
+- code: IRQ
   cri: 84.33
   fatalities_per_100k: 77
   gdp_losses: 110
-- code: OM
+- code: OMN
   cri: 84.67
   fatalities_per_100k: 35
   gdp_losses: 124
-- code: CH
+- code: CHE
   cri: 85.5
   fatalities_per_100k: 87
   gdp_losses: 94
-- code: HU
+- code: HUN
   cri: 85.83
   fatalities_per_100k: 106
   gdp_losses: 71
-- code: LV
+- code: LVA
   cri: 86.83
   fatalities_per_100k: 106
   gdp_losses: 62
-- code: MY
+- code: MYS
   cri: 87.33
   fatalities_per_100k: 78
   gdp_losses: 118
-- code: IS
+- code: ISL
   cri: 88.83
   fatalities_per_100k: 106
   gdp_losses: 57
-- code: LR
+- code: LBR
   cri: 89.5
   fatalities_per_100k: 106
   gdp_losses: 55
-- code: GB
+- code: GBR
   cri: 90.83
   fatalities_per_100k: 105
   gdp_losses: 106
-- code: SV
+- code: SLV
   cri: 91.83
   fatalities_per_100k: 67
   gdp_losses: 113
-- code: SI
+- code: SVN
   cri: 91.83
   fatalities_per_100k: 106
   gdp_losses: 74
-- code: RS
+- code: SRB
   cri: 92
   fatalities_per_100k: 106
   gdp_losses: 78
-- code: 'NO'
+- code: NOR
   cri: 92.33
   fatalities_per_100k: 94
   gdp_losses: 99
-- code: CZ
+- code: CZE
   cri: 92.83
   fatalities_per_100k: 106
   gdp_losses: 88
-- code: GE
+- code: GEO
   cri: 93.17
   fatalities_per_100k: 106
   gdp_losses: 75
-- code: NL
+- code: NLD
   cri: 97.17
   fatalities_per_100k: 106
   gdp_losses: 103
-- code: CG
+- code: COG
   cri: 97.17
   fatalities_per_100k: 89
   gdp_losses: 96
-- code: MV
+- code: MDV
   cri: 97.33
   fatalities_per_100k: 106
   gdp_losses: 76
-- code: FI
+- code: FIN
   cri: 97.83
   fatalities_per_100k: 106
   gdp_losses: 98
-- code: AM
+- code: ARM
   cri: 98.17
   fatalities_per_100k: 62
   gdp_losses: 125
-- code: NA
+- code: NAM
   cri: 98.17
   fatalities_per_100k: 75
   gdp_losses: 111
-- code: GN
+- code: GIN
   cri: 99.17
   fatalities_per_100k: 72
   gdp_losses: 126
-- code: BW
+- code: TWN
+  cri: 99.67
+  fatalities_per_100k: 98
+  gdp_losses: 119
+- code: BWA
   cri: 99.83
   fatalities_per_100k: 106
   gdp_losses: 87
-- code: SE
+- code: SWE
   cri: 100.5
   fatalities_per_100k: 106
   gdp_losses: 108
-- code: BG
+- code: BGR
   cri: 101
   fatalities_per_100k: 96
   gdp_losses: 109
-- code: EG
+- code: EGY
   cri: 102
   fatalities_per_100k: 99
   gdp_losses: 122
-- code: EC
+- code: ECU
   cri: 103.83
   fatalities_per_100k: 103
   gdp_losses: 112
-- code: TJ
+- code: TJK
   cri: 104.33
   fatalities_per_100k: 91
   gdp_losses: 117
-- code: IE
+- code: IRL
   cri: 104.5
   fatalities_per_100k: 106
   gdp_losses: 114
-- code: RO
+- code: ROU
   cri: 104.5
   fatalities_per_100k: 106
   gdp_losses: 116
-- code: DZ
+- code: DZA
   cri: 105.17
   fatalities_per_100k: 95
   gdp_losses: 127
-- code: MU
+- code: MUS
   cri: 105.17
   fatalities_per_100k: 106
   gdp_losses: 100
-- code: PA
+- code: PAN
   cri: 108.33
   fatalities_per_100k: 106
   gdp_losses: 115
-- code: IL
+- code: ISR
   cri: 108.83
   fatalities_per_100k: 88
   gdp_losses: 129
-- code: CI
+- code: CIV
   cri: 111.67
   fatalities_per_100k: 101
   gdp_losses: 128
-- code: AL
+- code: ALB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: AG
+- code: ATG
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: AZ
+- code: AZE
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BH
+- code: BHR
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BB
+- code: BRB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BY
+- code: BLR
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BZ
+- code: BLZ
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BJ
+- code: BEN
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BT
+- code: BTN
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BN
+- code: BRN
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: BF
+- code: BFA
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: CV
+- code: CPV
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TD
+- code: TCD
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: CR
+- code: CRI
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: CY
+- code: CYP
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TL
+- code: TLS
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: DO
+- code: DOM
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: ER
+- code: ERI
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: SZ
+- code: SWZ
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: GA
+- code: GAB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: GD
+- code: GRD
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: GW
+- code: GNB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: GY
+- code: GUY
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: JM
+- code: JAM
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: JO
+- code: JOR
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: KZ
+- code: KAZ
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: KI
+- code: KIR
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: XK
+- code: XKX
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: KW
+- code: KWT
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: KG
+- code: KGZ
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: LT
+- code: LTU
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: FM
+- code: FSM
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: MD
+- code: MDA
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: MK
+- code: MKD
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: PR
+- code: PRI
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: QA
+- code: QAT
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: WS
+- code: WSM
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: SC
+- code: SYC
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: SG
+- code: SGP
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: SB
+- code: SLB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: KN
+- code: KNA
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: LC
+- code: LCA
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: VC
+- code: VCT
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: SR
+- code: SUR
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TG
+- code: TGO
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TO
+- code: TON
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TT
+- code: TTO
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TN
+- code: TUN
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: TV
+- code: TUV
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: AE
+- code: ARE
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
-- code: UZ
+- code: UZB
   cri: 118
   fatalities_per_100k: 106
   gdp_losses: 130
