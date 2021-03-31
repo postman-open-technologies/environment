@@ -3,4 +3,4 @@ layout: none
 title: Ocean Temperatures
 tag: Environment
 ---
-{% assign publish_jdson = site.data.ocean-temperatues | json | replace: '=>', ':' %}{{ publish_json }}
+{% assign publish_jdson = site.data.ocean-temperatures | json | replace: '=>', ':' %}{{ publish_json }}
