@@ -24,13 +24,6 @@
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=AND-first_ndc%2CAND-revised_first_ndc">here</a>.
   ghg: 0.00%
   ghg_target: 37% (193.73 Gg CO2eq) reduction in 2030 compared to the BAU scenario
-- country: Andorra
-  iso: AND
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=AND-first_ndc%2CAND-revised_first_ndc">here</a>.
-  ghg: 0.00%
-  ghg_target: 37% (193.73 Gg CO2 eq.) reduction compared to business as usual scenario
-    in 2030; carbon neutrality in 2050
 - country: Angola
   iso: AGO
   latest_submission: Only First NDC
@@ -43,12 +36,6 @@
     href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ARG-first_ndc%2CARG-second_ndc">here</a>.
   ghg: 0.81%
   ghg_target: 15% reduction in GHG emissions by 2030 compared to the BAU scenario
-- country: Argentina
-  iso: ARG
-  latest_submission: 2020 NDC (Second NDC);<br>Compare with previous submission <a
-    href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ARG-first_ndc%2CARG-second_ndc">here</a>.
-  ghg: 0.81%
-  ghg_target: A cap of 359 MtCO2e net emissions in 2030
 - country: Armenia
   iso: ARM
   latest_submission: Only First NDC
@@ -70,41 +57,16 @@
   ghg: 0.14%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Austria
-  iso: AUT
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=AUT-first_ndc%2CAUT-revised_first_ndc">here</a>.
-  ghg: 0.14%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Azerbaijan
   iso: AZE
   latest_submission: Only First NDC
   ghg: 0.16%
   ghg_target: 35% reduction in GHG emissions by 2030 compared to 1990
-- country: Bahamas
+- country: The Bahamas
   iso: BHS
   latest_submission: Only First NDC
   ghg: 0.01%
   ghg_target: 30% reduction in GHG emissions by 2030 compared to the BAU scenario
-- country: Bangladesh
-  iso: BGD
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=BGD-first_ndc%2CBGD-revised_first_ndc">here</a>.
-  ghg: 0.45%
-  ghg_target: 5% (unconditional) to 15% (conditional) reduction in GHG emissions by
-    2030 compared to the BAU levels
 - country: Bangladesh
   iso: BGD
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -169,13 +131,7 @@
   ghg: 2.90%
   ghg_target: Reduce GHG emissions by 37% in 2025, and by 43% (indicative) in 2030
     below 2005 levels
-- country: Brazil
-  iso: BRA
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=BRA-first_ndc%2CBRA-revised_first_ndc">here</a>.
-  ghg: 2.90%
-  ghg_target: Reduce GHG emissions by 37% in 2025, and by 43% in 2030 below 2005 levels
-- country: Brunei
+- country: Brunei Darussalam
   iso: BRN
   latest_submission: 2020 NDC (First NDC);<br>Compare with previous submission <a
     href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=BRN-indc%2CBRN-first_ndc">here</a>.
@@ -208,12 +164,6 @@
   ghg: 0.14%
   ghg_target: 27% reduction in GHG emissions by 2030 compared to the BAU scenario,
     as well as a LULUCF contribution of 4.7 tCO2e/ha/year.
-- country: Cambodia
-  iso: KHM
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=KHM-first_ndc%2CKHM-revised_first_ndc">here</a>.
-  ghg: 0.14%
-  ghg_target: 42%% reduction in GHG emission below BAU by 2030
 - country: Cameroon
   iso: CMR
   latest_submission: Only First NDC
@@ -225,7 +175,7 @@
   ghg: 1.56%
   ghg_target: 30% reduction in GHG emissions by 2030 compared to 2005, representing
     a total economy-wide emissions of 523 Mt in 2030
-- country: Central African Republic
+- country: Central African Rep.
   iso: CAF
   latest_submission: Only First NDC
   ghg: 0.18%
@@ -247,13 +197,6 @@
   ghg_target: 30% (unconditional) or 35-45% (conditional) reduction in CO2 emissions
     per GDP unit by 2030 compared to 2007 level, and GHG sequestrations and reductions
     of an annual equivalent of around 600,000 of CO2 as of 2030 from LULUCF sector
-- country: Chile
-  iso: CHL
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=CHL-first_ndc%2CCHL-revised_first_ndc">here</a>.
-  ghg: 0.11%
-  ghg_target: A goal of 95 MtCO2eq by 2030, an emissions maximum in 2025, and a GHG
-    emissions budget of no more than 1,100 MtCO2eq in the period 2020-2030.
 - country: China
   iso: CHN
   latest_submission: Only First NDC
@@ -274,26 +217,13 @@
   ghg: 0.00%
   ghg_target: 84% reduction in GHG emissions by 2030 compared to the reference scenario,
     including sinks from the Land Use, Land-Use Change, and Forestry (LULUCF) sector.
-- country: Cook Islands
-  iso: COK
-  latest_submission: Only First NDC
-  ghg: 0.00%
-  ghg_target: 38% reduction by 2020 (unconditional) and 81% reduction by 2030 (conditional)
-    in GHG emission from electricity generation compared to 2006
 - country: Costa Rica
   iso: CRI
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=CRI-first_ndc%2CCRI-revised_first_ndc">here</a>.
   ghg: 0.02%
   ghg_target: A maximum of 9,374,000 tCO2eq net emissions by 2030
-- country: Costa Rica
-  iso: CRI
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=CRI-first_ndc%2CCRI-revised_first_ndc">here</a>.
-  ghg: 0.02%
-  ghg_target: An absolute maximum of net-emissions by 2030 of 9.11 MtCO2e, and a maximum
-    budget of net-emissions during 2021-2030 of 106.53 MtCO2e.
-- country: Côte d'Ivoire
+- country: Côte d’Ivoire
   iso: CIV
   latest_submission: Only First NDC
   ghg: 0.10%
@@ -318,31 +248,13 @@
   ghg: 0.02%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Cyprus
-  iso: CYP
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=CYP-first_ndc%2CCYP-revised_first_ndc">here</a>.
-  ghg: 0.02%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
-- country: Czech Republic
+- country: Central African Rep.
   iso: CAF
   latest_submission: Only First NDC
   ghg: 0.18%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Democratic Republic of the Congo
+- country: Congo, Dem. Rep.
   iso: COD
   latest_submission: Only First NDC
   ghg: 1.39%
@@ -355,24 +267,6 @@
   ghg: 0.10%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Denmark
-  iso: DNK
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=DNK-first_ndc%2CDNK-revised_first_ndc">here</a>.
-  ghg: 0.10%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Djibouti
   iso: DJI
   latest_submission: Only First NDC
@@ -386,7 +280,7 @@
   ghg: 0.00%
   ghg_target: 17.9% by 2020, 39.2% by 2025 and 44.7% by 2030 reduction in GHG emissions
     below 2014 levels (164.5 Ggs est.)
-- country: Dominican Republic
+- country: Dominican Rep.
   iso: DOM
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=DOM-first_ndc%2CDOM-revised_first_ndc">here</a>.
@@ -425,24 +319,6 @@
   ghg: 0.04%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Estonia
-  iso: EST
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=EST-first_ndc%2CEST-revised_first_ndc">here</a>.
-  ghg: 0.04%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Ethiopia
   iso: ETH
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -450,15 +326,6 @@
   ghg: 0.42%
   ghg_target: Limit the net greenhouse gas (GHG) emissions in 2030 to 145 Mt CO2e
     or lower
-- country: Ethiopia
-  iso: ETH
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ETH-first_ndc%2CETH-revised_first_ndc">here</a>.
-  ghg: 0.42%
-  ghg_target: Ethiopia is committing to reduce economy-wide greenhouse gas emissions
-    (GHG) by 220.59 MtCO2eq in 2030 as compared to the 2010 BAU scenario. "Ethiopia
-    commits to 12.4% (unconditional) and 41.1%% (conditional) reduction in GHG emissions
-    by 2030 compared to the BAU scenario (412.1 MtCO2eq).
 - country: Fiji
   iso: FJI
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -466,12 +333,6 @@
   ghg: 0.00%
   ghg_target: Around 30% reduction in CO2 emissions from the energy sector by 2030
     compared to the BAU scenario
-- country: Fiji
-  iso: FJI
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=FJI-first_ndc%2CFJI-revised_first_ndc">here</a>.
-  ghg: 0.00%
-  ghg_target: To reduce 30% of BAU CO2 emissions from the energy sector by 2030
 - country: Finland
   iso: FIN
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -486,24 +347,6 @@
   ghg: 0.74%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: France
-  iso: FRA
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=FRA-first_ndc%2CFRA-revised_first_ndc">here</a>.
-  ghg: 0.74%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Gabon
   iso: GAB
   latest_submission: Only First NDC
@@ -523,24 +366,6 @@
   ghg: 1.59%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Germany
-  iso: DEU
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=DEU-first_ndc%2CDEU-revised_first_ndc">here</a>.
-  ghg: 1.59%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Ghana
   iso: GHA
   latest_submission: Only First NDC
@@ -561,12 +386,6 @@
   ghg: 0.00%
   ghg_target: 30% reduction by 2025 and indicative 40% reduction by 2030 in GHG emissions
     compared to 2010
-- country: Grenada
-  iso: GRD
-  latest_submission: 2020 NDC (Second NDC);<br>Compare with previous submission <a
-    href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=GRD-first_ndc%2CGRD-second_ndc">here</a>.
-  ghg: 0.00%
-  ghg_target: 40% reduction of the 2010 emissions levels by 2030
 - country: Guatemala
   iso: GTM
   latest_submission: Only First NDC
@@ -609,13 +428,6 @@
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ISL-first_ndc%2CISL-revised_first_ndc">here</a>.
   ghg: 0.01%
   ghg_target: 40% reduction in GHG emissions by 2030 compared to 1990
-- country: Iceland
-  iso: ISL
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ISL-first_ndc%2CISL-revised_first_ndc">here</a>.
-  ghg: 0.01%
-  ghg_target: Economy-wide net reduction of at least 55% in greenhouse gas emissions
-    by 2030 compared to 1990
 - country: India
   iso: IND
   latest_submission: Only First NDC
@@ -656,24 +468,6 @@
   ghg: 0.79%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Italy
-  iso: ITA
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ITA-first_ndc%2CITA-revised_first_ndc">here</a>.
-  ghg: 0.79%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Jamaica
   iso: JAM
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -682,14 +476,6 @@
   ghg_target: Mitigate 1.1 MtCO2e (unconditional) per year by 2030 compared to the
     BAU scenario, or 7.8% (unconditional) to 10% (conditional) reduction in GHG emissions
     by 2030 compared to the BAU scenario
-- country: Japan
-  iso: JPN
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=JPN-first_ndc%2CJPN-revised_first_ndc">here</a>.
-  ghg: 2.36%
-  ghg_target: 26% reduction in GHG emissions by fiscal year (FY) 2030 compared to
-    FY 2013, or 25.4% reduction compared to FY 2005, equivalent to approximately 1.042
-    billion t-CO2eq in 2030
 - country: Japan
   iso: JPN
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -743,24 +529,6 @@
   ghg: 0.02%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Latvia
-  iso: LVA
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=LVA-first_ndc%2CLVA-revised_first_ndc">here</a>.
-  ghg: 0.02%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Lebanon
   iso: LBN
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -791,24 +559,6 @@
   ghg: 0.04%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Lithuania
-  iso: LTU
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=LTU-first_ndc%2CLTU-revised_first_ndc">here</a>.
-  ghg: 0.04%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Luxembourg
   iso: LUX
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -816,7 +566,7 @@
   ghg: 0.02%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Macedonia
+- country: Macedonia, FYR
   iso: MKD
   latest_submission: Only First NDC
   ghg: 0.02%
@@ -862,24 +612,6 @@
   ghg: 0.00%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Malta
-  iso: MLT
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=MLT-first_ndc%2CMLT-revised_first_ndc">here</a>.
-  ghg: 0.00%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Marshall Islands
   iso: MHL
   latest_submission: 2020 NDC (Updated Second NDC);<br>Compare with previous submission
@@ -887,12 +619,6 @@
   ghg: 0.00%
   ghg_target: 32% reduction by 2025 and indicative 45% reduction by 2030 in GHG emissions
     compared to 2010
-- country: Marshall Islands
-  iso: MHL
-  latest_submission: 2020 NDC (Updated Second NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=MHL-first_ndc%2CMHL-second_ndc">here</a>.
-  ghg: 0.00%
-  ghg_target: GHG reduction of at least 45% below 2010 levels by 2030.
 - country: Mauritania
   iso: MRT
   latest_submission: Only First NDC
@@ -915,26 +641,19 @@
     emissions for the year 2030 compared to BAU scenario, equivalent to 22% reduction
     in GHG and 51% reduction in Black Carbon<br>With conditions, GHG reductions could
     increase up to 36%, and Black Carbon reductions to 70% in 2030.
-- country: Micronesia
+- country: Micronesia (Fed. States of)
   iso: FSM
   latest_submission: Only First NDC
   ghg: 0.00%
   ghg_target: 28% (unconditional) up to 35% (conditional) reduction in GHG emissions
     by 2025 compared to 2000
-- country: Moldova
+- country: Moldova, Rep.
   iso: MDA
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=MDA-first_ndc%2CMDA-revised_first_ndc">here</a>.
   ghg: 0.03%
   ghg_target: 64-67% (unconditional) and up to 78% (conditional) reduction in GHG
     emission in 2030 compared to 1990
-- country: Moldova
-  iso: MDA
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=MDA-first_ndc%2CMDA-revised_first_ndc">here</a>.
-  ghg: 0.03%
-  ghg_target: 70% (unconditional) and up to 88% (conditional) reduction in GHG emission
-    in 2030 compared to 1990
 - country: Monaco
   iso: MCO
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -989,14 +708,6 @@
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=NZL-first_ndc%2CNZL-revised_first_ndc">here</a>.
   ghg: 0.14%
   ghg_target: reduce GHG emissions to 30% below 2005 levels by 2030
-- country: New Zealand
-  iso: NZL
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=NZL-first_ndc%2CNZL-revised_first_ndc">here</a>.
-  ghg: 0.14%
-  ghg_target: reduce net emissions of greenhouse gases (other than biogenic methane)
-    to zero by 2050, and to reduce emissions of biogenic methane to 24 to 47 per cent
-    below 2017 levels by 2050, including to 10 per cent below 2017 levels by 2030
 - country: Nicaragua
   iso: NIC
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -1016,7 +727,7 @@
   ghg: 0.73%
   ghg_target: 20% (unconditional) to 45% (conditional) reduction in GHG emissions
     by 2030 compared to the BAU scenario
-- country: North Korea
+- country: Korea, Dem. People’s Rep.
   iso: PRK
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=PRK-first_ndc%2CPRK-revised_first_ndc">here</a>.
@@ -1045,7 +756,7 @@
   latest_submission: Only First NDC
   ghg: 0.00%
   ghg_target: 22% reduction in GHG emissions from energy sector 2025 compared to 2005
-- country: Palestine
+- country: Palestinian Territories
   iso: PSE
   latest_submission: Only First NDC
   ghg_target: 12.8% (status quo) to 24.4% (independence) reduction in GHG emissions
@@ -1091,25 +802,7 @@
   ghg: 0.14%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Portugal
-  iso: PRT
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=PRT-first_ndc%2CPRT-revised_first_ndc">here</a>.
-  ghg: 0.14%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
-- country: Republic of Congo
+- country: Congo
   iso: COG
   latest_submission: Only First NDC
   ghg: 0.04%
@@ -1122,24 +815,6 @@
   ghg: 0.18%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Romania
-  iso: ROU
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ROU-first_ndc%2CROU-revised_first_ndc">here</a>.
-  ghg: 0.18%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Russia
   iso: RUS
   latest_submission: 2020 NDC (First NDC);<br>Compare with previous submission <a
@@ -1214,14 +889,6 @@
   ghg: 0.14%
   ghg_target: 36% reduction in emissions intensity by 2030 compared to 2005 levels,
     and stabilise its emissions with the aim of peaking around 2030
-- country: Singapore
-  iso: SGP
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=SGP-first_ndc%2CSGP-revised_first_ndc">here</a>.
-  ghg: 0.14%
-  ghg_target: Singapore’s NDC is an economy-wide absolute GHG emissions limitation
-    target to peak its GHG emissions at 65 MtCO2e around 2030. Singapore’s GHG emissions
-    in 2030 are expected to amount to no higher than 65 MtCO2e.
 - country: Slovakia
   iso: SVK
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -1236,24 +903,6 @@
   ghg: 0.04%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Slovenia
-  iso: SVN
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=SVN-first_ndc%2CSVN-revised_first_ndc">here</a>.
-  ghg: 0.04%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Solomon Islands
   iso: SLB
   latest_submission: Only First NDC
@@ -1267,19 +916,13 @@
   ghg: 1.06%
   ghg_target: South Africa's emissions by 2025 and 2030 will be in a range between
     398 and 614 MtCO2eq
-- country: South Korea
+- country: Korea, Rep.
   iso: KOR
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=KOR-first_ndc%2CKOR-revised_first_ndc">here</a>.
   ghg: 1.38%
   ghg_target: 37% reduction in GHG emissions by 2030 compared to the BAU scenario
     (850.6 MtCO2e)
-- country: South Korea
-  iso: KOR
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=KOR-first_ndc%2CKOR-revised_first_ndc">here</a>.
-  ghg: 1.38%
-  ghg_target: 24.4% by 2030 compared to 2017 levels (709.1MtCO2e)
 - country: South Sudan
   iso: SSD
   latest_submission: Only INDC
@@ -1311,24 +954,6 @@
   ghg: 0.06%
   ghg_target: 'The European Union and its 28 Member States submitted a joint NDC:
     at least 40% domestic reduction in GHG emissions by 2030 compared to 1990'
-- country: Sweden
-  iso: SWE
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=SWE-first_ndc%2CSWE-revised_first_ndc">here</a>.
-  ghg: 0.06%
-  ghg_target: 'At least 55% reduction in greenhouse gas emissions by 2030 compared
-    to 1990.<br>The following information in this section is subject to revision in
-    light of the enhanced target.<br>“The respective emissions reductions in force
-    at time of this submission are as follows:<br>-Under Directive (EU) 2018/410 the
-    EU Emissions Trading System: EU will reduce its emissions from the sectors covered
-    by this legislation by 43% from 2005 levels by 2030; <br>-Under Regulation (EU)
-    2018/842, each EU Member State will reduce its emissions from sectors outside
-    the EU ETS from 2005 levels by 2030 in accordance with the following percentage:
-    Belgium 35%, Bulgaria 0%, Czech Republic 14%, Denmark 39%, Germany 38%, Estonia
-    13%, Ireland 30%, Greece 16%, Spain 26%, France 37%, Croatia 7%, Italy 33%, Cyprus
-    24%, Latvia 6%, Lithuania 9%, Luxembourg 40%, Hungary 7%, Malta 19%, Netherlands
-    36%, Austria 36%, Poland 7%, Portugal 17%, Romania 2%, Slovenia 15%, Slovakia
-    12%, Finland 39%, Sweden 40%.'
 - country: Switzerland
   iso: CHE
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -1337,7 +962,7 @@
   ghg_target: 50% reduction in GHG emissions by 2030 compared to 1990, corresponding
     to an average 35% reduction over the period 2021-2030; anticipated 35% reduction
     by 2025 compared to 1990 levels
-- country: Syria
+- country: Syrian Arab Republic
   iso: SYR
   latest_submission: Only First NDC
   ghg: 0.09%
@@ -1444,31 +1069,19 @@
   ghg: 0.47%
   ghg_target: Decrease specific emissions of greenhouse gases per unit of GDP by 10%
     by 2030 from level of 2010
-- country: Venezuela
+- country: Venezuela, RB
   iso: VEN
   latest_submission: Only First NDC
   ghg: 0.57%
   ghg_target: At least 20% reduction in GHG emissions by 2030 compared to the baseline
     scenario
-- country: Vietnam
+- country: Viet Nam
   iso: VNM
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
     <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=VNM-first_ndc%2CVNM-revised_first_ndc">here</a>.
   ghg: 0.74%
   ghg_target: 8% (unconditional) up to 25% (conditional) reduction in GHG emissions
     by 2030 compared to the BAU scenario
-- country: Vietnam
-  iso: VNM
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=VNM-first_ndc%2CVNM-revised_first_ndc">here</a>.
-  ghg: 0.74%
-  ghg_target: 'Unconditional contribution: With domestic resources, by 2025 Viet Nam
-    will have reduced total GHG emissions by about 7.3% compared to the BAU scenario
-    (equivalent to 52.9 million tonnes of CO2eq), and by 2030 Viet Nam will have reduced
-    total GHG emissions by about 9% compared to the BAU scenario (equivalent to 83.9
-    million tonnes of CO2eq)."<br>"Conditional contribution: The above-mentioned 9%
-    contribution can be increased to 27% by 2030 (equivalent to 250.8 million tonnes
-    of CO2eq)'
 - country: Zambia
   iso: ZMB
   latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
@@ -1477,14 +1090,6 @@
   ghg_target: 20,000 GgCO2eq (unconditional) to 38,000 GgCO2eq (conditional) reduction
     in GHG emissions by 2030 compared to the BAU scenario, equivalent to 25% to 47%
     reduction compared to 2010
-- country: Zambia
-  iso: ZMB
-  latest_submission: 2020 NDC (Updated First NDC);<br>Compare with previous submission
-    <a href="https://www.climatewatchdata.org/custom-compare/overview?section=overview_of_commitment&targets=ZMB-first_ndc%2CZMB-revised_first_ndc">here</a>.
-  ghg: 0.19%
-  ghg_target: At least 25% (at the Business As Usual BAU level of international support
-    prevailing in 2015) and towards 47% (with substantial international support) reduction
-    in greenhouse gas emission compared to 2010.
 - country: Zimbabwe
   iso: ZWE
   latest_submission: Only First NDC
